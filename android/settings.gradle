@@ -1,0 +1,3 @@
+rootProject.name = 'ImageProblem'
+
+include ':app'
